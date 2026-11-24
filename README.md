@@ -1,7 +1,6 @@
 # Wildbow Wiki search indexes
 
-Static [Pagefind](https://pagefind.app/) indexes used by the search page on the Wildbow Wiki
-(https://wildbow.miraheze.org/). The wiki loads them from jsDelivr:
+Static [Pagefind](https://pagefind.app/) indexes used by a wiki search page. The wiki loads them from jsDelivr:
 `https://cdn.jsdelivr.net/gh/wildbow-wiki/wildbow-wiki-search@main/wog/`
 
 - `wog/`: Word of God entries (statements by Wildbow), one result per `WoG:` page on the wiki. Filters: universe,
