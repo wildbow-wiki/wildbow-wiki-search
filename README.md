@@ -1,7 +1,7 @@
 # Wildbow Wiki search indexes
 
 Static [Pagefind](https://pagefind.app/) indexes used by a wiki search page. The wiki loads them from jsDelivr:
-`https://cdn.jsdelivr.net/gh/wildbow-wiki/wildbow-wiki-search@main/wog/`
+`https://cdn.jsdelivr.net/gh/wildbow-wiki/wildbow-wiki-search@<commit>/wog/`
 
 - `wog/`: Word of God entries (statements by Wildbow), one result per `WoG:` page on the wiki. Filters: universe,
   serial, source, content (writing process or not). Built by `scripts/build-wog-index.py` in the wiki's tooling. Until the wiki is public it is built
